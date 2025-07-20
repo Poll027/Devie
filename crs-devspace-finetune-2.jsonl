@@ -1,0 +1,22 @@
+alpaca_data = [
+    #Frontend Developer
+    {
+        "instruction": ,
+        "input" :   ,
+        "output": 
+        
+    },
+    # Backend Developer
+    {
+        "instruction": ,
+        "input": ,
+        "output": 
+    },
+    
+    # Full-Stack Developer
+    {
+        "instruction":"",
+        "input": "",
+        "output": ""
+    },
+]
